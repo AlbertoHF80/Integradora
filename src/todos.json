@@ -1,0 +1,39 @@
+{
+    "todos": [{
+            "title": "HID-01.01",
+            "responsible": "Alberto",
+            "description": "Revisión de la información que se tiene que capturar.",
+            "priority": "Alta"
+        },
+        {
+            "title": "HID-01.02",
+            "responsible": "Alberto",
+            "description": "Creación de mapa de campos y tipos de datos que refieren a la captura.",
+            "priority": "Alta"
+        },
+        {
+            "title": "HID-01.03",
+            "responsible": "Alberto",
+            "description": "Validación de los tipos de datos que con formarán la base de datos.",
+            "priority": "Alta"
+        },
+        {
+            "title": "HID-01.04",
+            "responsible": "Alberto",
+            "description": "Orden de los datos a mostrar de acuerdo a la prioridad.",
+            "priority": "Alta"
+        },
+        {
+            "title": "HID-01.05",
+            "responsible": "Alberto",
+            "description": "Formato para la información que se va a presentar en pantalla.",
+            "priority": "Alta"
+        },
+        {
+            "title": "HID-01.06",
+            "responsible": "Alberto",
+            "description": "Colores y resolución en pantalla para usuarios (sistema inclusivo).",
+            "priority": "Media"
+        }
+    ]
+}
